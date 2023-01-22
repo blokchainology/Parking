@@ -1,0 +1,32 @@
+@font-face {
+    src: url("/Iranian Sans.ttf");
+    font-family: sans;
+}
+
+* {
+    font-family: sans;
+    outline: none;    
+}
+
+button {
+    padding: 5px 25px;
+}
+
+input {
+    padding: 1px 7px;
+    text-align: center;
+}
+
+.form input {
+    width: calc(100% / 4);
+}
+
+.qr {
+    margin-top: 100px;
+}
+
+.khorog{
+    margin-top: 100px;
+}
+
+
